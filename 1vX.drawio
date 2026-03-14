@@ -1,14 +1,107 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.0.6 Chrome/138.0.7204.100 Electron/37.2.3 Safari/537.36" version="28.0.6">
   <diagram name="Page-1" id="MapNp4STJvARZsvP0Jng">
-    <mxGraphModel dx="1896" dy="903" grid="1" gridSize="32" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="3160" dy="1505" grid="1" gridSize="32" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="lEohSgdmZn-EY1fPdWl3-2" value="Team 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="288" width="128" height="75" as="geometry" />
+        <mxCell id="lEohSgdmZn-EY1fPdWl3-2" value="Team 1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=32;fontFamily=Helvetica;fillStyle=auto;gradientDirection=east;fillColor=#002B86;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
+          <mxGeometry x="203.5" y="128" width="192" height="128" as="geometry" />
         </mxCell>
-        <mxCell id="lEohSgdmZn-EY1fPdWl3-3" value="Team 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="262.5" width="120" height="67.5" as="geometry" />
+        <mxCell id="igFG3KY3LtFasvbX7WE--14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="igFG3KY3LtFasvbX7WE--2" target="igFG3KY3LtFasvbX7WE--13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="igFG3KY3LtFasvbX7WE--2" value="Player 1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;fontFamily=Helvetica;fillStyle=auto;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="235.5" y="288" width="128" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="igFG3KY3LtFasvbX7WE--3" value="Team 2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=32;fontFamily=Helvetica;fillStyle=auto;gradientDirection=east;fillColor=#460010;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="1376" y="128" width="192" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="igFG3KY3LtFasvbX7WE--17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="igFG3KY3LtFasvbX7WE--4" target="igFG3KY3LtFasvbX7WE--16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="igFG3KY3LtFasvbX7WE--4" value="Player 2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;fontFamily=Helvetica;fillStyle=auto;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="1019" y="288" width="130" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="igFG3KY3LtFasvbX7WE--19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="igFG3KY3LtFasvbX7WE--5" target="igFG3KY3LtFasvbX7WE--18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="igFG3KY3LtFasvbX7WE--5" value="Player 3" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;fontFamily=Helvetica;fillStyle=auto;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="1248" y="288" width="128" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="igFG3KY3LtFasvbX7WE--21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="igFG3KY3LtFasvbX7WE--6" target="igFG3KY3LtFasvbX7WE--20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="igFG3KY3LtFasvbX7WE--6" value="Player 4" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;fontFamily=Helvetica;fillStyle=auto;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="1464" y="288" width="128" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="igFG3KY3LtFasvbX7WE--23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="igFG3KY3LtFasvbX7WE--7" target="igFG3KY3LtFasvbX7WE--22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="igFG3KY3LtFasvbX7WE--7" value="Player 5" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;fontFamily=Helvetica;fillStyle=auto;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="1696" y="288" width="128" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="igFG3KY3LtFasvbX7WE--8" value="Early Game" style="rounded=0;whiteSpace=wrap;html=1;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="640" y="152" width="256" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="igFG3KY3LtFasvbX7WE--9" value="Higher player count increases the acquisition of primary, secondary, and tertiary resources:&lt;br&gt;&lt;br&gt;Economic resources, Strategic resources (items, experience, neutral structures, map control)&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;This factor is also affected by races, heroes, map design (creep routes, item availability)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Can heavily snowball games into the 2nd forces&#39; favor, as they will collective spend less &lt;u&gt;time&lt;/u&gt;&amp;nbsp;to acquire &lt;u&gt;more&amp;nbsp;&lt;/u&gt;resources&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Increased number of players allows for diversification of investments towards specific resources&lt;br&gt;&lt;br&gt;Some players can compete for creeps, items, map control, while others focus on economic resources&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Cooperative attacks minimize risk on resource losses to increase the cost of enemy&#39;s actions (creeping, tech timers, etc.)&lt;/div&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1101" y="672" width="762" height="512" as="geometry" />
+        </mxCell>
+        <mxCell id="igFG3KY3LtFasvbX7WE--38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="igFG3KY3LtFasvbX7WE--13" target="igFG3KY3LtFasvbX7WE--30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="igFG3KY3LtFasvbX7WE--13" value="Standard Opener" style="whiteSpace=wrap;html=1;fontSize=24;rounded=0;fillStyle=auto;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="192" y="384" width="215" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="igFG3KY3LtFasvbX7WE--15" value="&lt;div&gt;&lt;font style=&quot;&quot;&gt;Scenario 1 (Current Problems)&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=36;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="512" y="64" width="544" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="igFG3KY3LtFasvbX7WE--29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="igFG3KY3LtFasvbX7WE--16" target="igFG3KY3LtFasvbX7WE--18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="igFG3KY3LtFasvbX7WE--16" value="Fast Expo" style="whiteSpace=wrap;html=1;fontSize=24;rounded=0;fillStyle=auto;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="990" y="570" width="188" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="igFG3KY3LtFasvbX7WE--18" value="Fast Expo" style="whiteSpace=wrap;html=1;fontSize=24;rounded=0;fillStyle=auto;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="1224" y="570" width="176" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="igFG3KY3LtFasvbX7WE--20" value="All-In" style="whiteSpace=wrap;html=1;fontSize=24;rounded=0;fillStyle=auto;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="416" width="176" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="igFG3KY3LtFasvbX7WE--24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="igFG3KY3LtFasvbX7WE--22" target="igFG3KY3LtFasvbX7WE--20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="igFG3KY3LtFasvbX7WE--22" value="Early Harass" style="whiteSpace=wrap;html=1;fontSize=24;rounded=0;fillStyle=auto;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="1672" y="416" width="176" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="igFG3KY3LtFasvbX7WE--28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="igFG3KY3LtFasvbX7WE--25" target="igFG3KY3LtFasvbX7WE--16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="igFG3KY3LtFasvbX7WE--25" value="Time 3-4 min" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="708" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="igFG3KY3LtFasvbX7WE--27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="igFG3KY3LtFasvbX7WE--26" target="igFG3KY3LtFasvbX7WE--20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="igFG3KY3LtFasvbX7WE--26" value="Time 2-2:30m" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="708" y="416" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="igFG3KY3LtFasvbX7WE--30" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="704" y="893" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="igFG3KY3LtFasvbX7WE--34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="igFG3KY3LtFasvbX7WE--32" target="igFG3KY3LtFasvbX7WE--3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="896" y="928" />
+              <mxPoint x="960" y="928" />
+              <mxPoint x="960" y="192" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="igFG3KY3LtFasvbX7WE--32" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="772" y="864" width="124" height="138" as="geometry" />
+        </mxCell>
+        <mxCell id="igFG3KY3LtFasvbX7WE--39" value="Early / Mid Game Skirmish" style="rounded=0;whiteSpace=wrap;html=1;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="640" y="739" width="256" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
