@@ -1,6 +1,6 @@
 ## Comments & Considerations
 
-LjósapaldrRole — 12:51 PM
+Ljósapaldr — 12:51 PM
 The purpose of the changes should be to allow for grubby's skill and knowledge to carry as much of the load as possible, hence why I think upkeep is easily the most central change
 once he's allowed to build and expand without taking resource losses from a mechanic balanced around 1v1, the next step is to figure out how he gets 1. enough time to creep a bit himself and 2. can't get super rushed.
 Once that is in place, you can start playing with handicap up and down till the sweetspot is hit.
