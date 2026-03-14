@@ -15,6 +15,10 @@
 ### Gold & Lumber
 
 ### Production / Construction Time
+- [] Advantages
+- [] Handicaps
+    - [] Dynamic Construction Timers
+    <!--Current GUI trigger is limited. Cannot go below 0% progress, or access the field from the unit.-->
 
 ### Tech Time
 
